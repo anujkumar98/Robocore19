@@ -191,7 +191,7 @@ a.article, a.article:hover {
     margin: 5px auto;
 }
 
-
+/* 
 /* ---------------------------------------------------
     MEDIAQUERIES
 ----------------------------------------------------- */
@@ -224,4 +224,4 @@ a.article, a.article:hover {
         transform: rotate(-45deg) translate(1px, -1px);
     }
 
-}
+} 
